@@ -6,6 +6,8 @@ No meu estágio surgiu uma necesssidade de fazer uma calculadora de salário lí
 
 Esse é o meu primeiro projeto no qual fiz sozinho, sem olhar em cursos ou algo do tipo. Mas tive ajuda de um amigo para tirar umas dúvidas em relação de fazer algumas funções.
 
+Hospedei a calculadora em uma página do Git. Se quiser acessar basta acessar: https://ivovilar1.github.io/Calculadora-de-salario-liquido/
+
 ![image](https://user-images.githubusercontent.com/60072896/125445476-f2d97a50-9302-4e60-be0d-fde82f631b55.png)
 
 **Funcionamento da Calculadora**
